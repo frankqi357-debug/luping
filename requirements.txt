@@ -1,0 +1,9 @@
+PyQt6==6.6.1
+PyQt6-sip==13.6.0
+opencv-python==4.8.1.78
+numpy==1.24.3
+Pillow==10.0.0
+moviespy==1.0.3
+PyAudio==0.2.13
+sounddevice==0.4.6
+numba==0.58.1
